@@ -1,4 +1,4 @@
-# Swift Student Challenge 2025 - (Not) Lost
+# Swift Student Challenge 2025 - (Not) Lost (WINNER)
 
 An interactive educational playground that visualizes pathfinding algorithms through engaging character-driven scenarios. This project was created for the Swift Student Challenge 2025, demonstrating the power and beauty of algorithms through intuitive visualization.
 
